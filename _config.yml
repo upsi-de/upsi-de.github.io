@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Upside - DER Fantasy Football Podcast
+title: Upside
 locale: de_DE
 timezone: UTC+1
-description: Upside - DER Fantasy Football Podcast
+description: DER Fantasy Football Podcast
 logo: site-logo.svg
 search: true
 url: #your-site-url

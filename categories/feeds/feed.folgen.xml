@@ -1,0 +1,5 @@
+---
+permalink: /feed.folgen.xml
+sitemap: false
+---
+{% include category-feed.xml postlist=site.categories.folgen taxonomy='folgen' %}
