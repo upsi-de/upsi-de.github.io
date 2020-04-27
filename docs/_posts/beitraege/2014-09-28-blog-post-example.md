@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, views]
+categories: [beitraege, views]
 share: true
 comments: true
 title: 'Example of a post in blog category'
@@ -11,9 +11,9 @@ tags: [tag2]
 author: Author1
 hidelogo: true
 relatedposts:
- - url: /blog/hello-world/
- - url: /blog/mathjax-example/
+ - url: /beitraege/hello-world/
+ - url: /beitraege/mathjax-example/
  - url: /rankings/author-override/
- - url: /blog/post-link/ 
+ - url: /beitraege/post-link/ 
 ---
 Example of  a blog post. Logo is hidden. Related posts (defined by author in yaml front-matter) are shown in the bottom.

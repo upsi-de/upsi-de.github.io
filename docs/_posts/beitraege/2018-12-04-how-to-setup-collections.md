@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a collection: howto"
 modified:
-categories: blog
+categories: beitraege
 excerpt:
 share: true
 comments: true

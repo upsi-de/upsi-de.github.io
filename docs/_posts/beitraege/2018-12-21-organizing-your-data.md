@@ -2,7 +2,7 @@
 layout: post
 title: "Organizing your data"
 modified:
-categories: blog
+categories: beitraege
 excerpt:
 share: true
 comments: true
@@ -24,12 +24,12 @@ Adding a new category in your site is as trivial as defining the category in you
 ```yaml
 ---
 layout: page
-title: BLOG
-categories: [blog]
-permalink: /blog/
+title: beitraege
+categories: [beitrag]
+permalink: /beitraege/
 ---
 {% raw %}
-{% include post-list.html taxonomy='blog' image='images/pen-hand.gif' %}
+{% include post-list.html taxonomy='beitraege' image='images/pen-hand.gif' %}
 {% endraw %}
 ```
 
@@ -41,15 +41,15 @@ Next to the category page, it makes sense to have the category (rss) feed page. 
 
 ```yaml
 ---
-permalink: /feed.blog.xml
+permalink: /feed.beitraege.xml
 sitemap: false
 ---
 {% raw %}
-{% include category-feed.xml postlist=site.categories.blog taxonomy='blog' %}
+{% include category-feed.xml postlist=site.categories.beitraege taxonomy='beitraege' %}
 {% endraw %}
 ```
 
 After building your site, the feed file should be in present in the root folder. If that is the case, then the navigation menu will display a 'Subscribe' link to the feed file so that visitors can access it and subscribe to the categories feed. If you don't specify a feed template for a category, then the 'Subscribe' link will not be displayed.
 
 #### Collections
-For collections check [here](/blog/how-to-setup-collections/).
+For collections check [here](/beitraege/how-to-setup-collections/).

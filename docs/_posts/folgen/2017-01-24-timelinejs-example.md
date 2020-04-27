@@ -1,11 +1,11 @@
 ---
 layout: post
-categories: music
+categories: folgen
 share: true
 comments: true
 title: 'TimelineJs integration example'
 date: '2017-01-24T22:15:00+02:00'
-tags: [timeline, examples, music]
+tags: [timeline, examples, folge]
 author: Author2
 hidelogo: true
 enable_chat: false

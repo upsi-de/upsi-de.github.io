@@ -2,7 +2,7 @@
 layout: post
 title: "Markup: HTML Elements and Formatting"
 modified:
-categories: blog
+categories: beitraege
 excerpt:
 share: true
 comments: true
