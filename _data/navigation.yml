@@ -4,12 +4,12 @@
   url: /about/
   icon: info
 
-- title: Blog
-  url: /blog/
+- title: Beiträge
+  url: /beitraege/
   icon: pencil
 
-- title: Music
-  url: /music/
+- title: Folgen
+  url: /folgen/
   icon: music
   
 - title: Rankings
