@@ -6,4 +6,4 @@ permalink: '/blog/'
 search_omit: true
 hidelogo: true
 ---
-{% include post-list.html taxonomy='blog' image='images/pen-hand.gif' %}
+{% include post-list.html taxonomy='blog' %}
