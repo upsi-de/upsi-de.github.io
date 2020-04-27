@@ -7,8 +7,5 @@ enable_chat: true
 search_omit: true
 permalink: /links/
 ---
-<figure>
-    <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
-</figure>
 
 Links page. Add your content here.
